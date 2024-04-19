@@ -1,12 +1,3 @@
-# NOTICE - March 31, 2024
-
-I am in the process of rewriting the entire hccpy incorporating all the feedback and issues in the past. If you want to provide mode thoughts while I am in the process, please reach out to me on LinkedIn (https://www.linkedin.com/in/yubin-park-phd/) - the fastest way to reach me. 
-
-The new project will be hosted by [https://github.com/mimilabs](https://github.com/mimilabs) - for more details, please see: [https://www.mimilabs.ai/projects/65e908d2972dde0f134d21db](https://www.mimilabs.ai/projects/65e908d2972dde0f134d21db)
-
-Best,
-
-Yubin
 
 # hccpy 
 
@@ -321,4 +312,3 @@ Apache 2.0
 - https://github.com/galtay/hcc_risk_models
 - https://www.cms.gov/cciio/resources/forms-reports-and-other-resources/downloads/ra-march-31-white-paper-032416.pdf
 - https://www.cms.gov/cciio/resources/regulations-and-guidance/index.html
-
